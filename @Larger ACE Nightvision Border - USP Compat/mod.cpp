@@ -1,0 +1,11 @@
+name = "Larger ACE Nightvision Border - USP Compat";
+author = "D. Wolfe";
+picture = "mod_picture.paa";
+description = "Increases all the ACE night vision borders/blinders by 200% for all USP NVGs";
+actionName = "Website";
+action = "https://steamcommunity.com/id/redthirten/";
+logo = "mod.paa";
+logoOver = "mod_over.paa";
+tooltip = "Larger ACE Nightvision Border - USP Compat";
+overview = "Increases all the ACE night vision borders/blinders by 200% for all USP NVGs";
+overviewPicture = "mod_picture.paa";

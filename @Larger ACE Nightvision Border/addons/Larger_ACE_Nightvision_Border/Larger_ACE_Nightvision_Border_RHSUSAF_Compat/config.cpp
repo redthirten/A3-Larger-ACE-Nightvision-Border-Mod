@@ -12,6 +12,9 @@ class CfgPatches {
 		requiredAddons[] = {"rhsusf_main_loadorder", "ace_compat_rhs_usf3_nightvision"};
 		skipWhenMissingDependencies = 1;
 		addonRootClass = "Larger_ACE_Nightvision_Border";
+		version = 1.0.0;
+		author = "D. Wolfe";
+		authorUrl = "https://steamcommunity.com/id/redthirten/";
 	};
 };
 
