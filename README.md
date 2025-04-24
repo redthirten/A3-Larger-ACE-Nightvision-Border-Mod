@@ -19,6 +19,7 @@ fovLeft=1.83;
 - All ACE NVGs
 - All RHS NVGs (if RHS is loaded)
 - All CUP NVGs (if CUP is loaded)
+- All Expeditionary Force NVGs (if Expeditionary Force CDLC is loaded)
 - Any other mod NVGs that extend the `NVGoggles` or ACE NVG classes, AND do not override `ace_nightvision_border` attribute.
 
 ## Mod Requirements:

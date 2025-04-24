@@ -16,6 +16,7 @@ The mod was tested using an FOV of 90 degrees to get the size right. If you woul
 - All ACE NVGs
 - All RHS NVGs (if RHS is loaded)
 - All CUP NVGs (if CUP is loaded)
+- All Expeditionary Force NVGs (if Expeditionary Force CDLC is loaded)
 - Any other mod NVGs that extend the 'NVGoggles' or ACE NVG classes, AND do not override 'ace_nightvision_border' attribute.
 
 [h1]Mod Requirements:[/h1]
